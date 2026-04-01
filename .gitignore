@@ -6,8 +6,8 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
+# /[Bb]uild/       ← Comentado para permitir subir el build
+# /[Bb]uilds/      ← Comentado para permitir subir el build
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 *.log
